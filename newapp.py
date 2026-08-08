@@ -20,7 +20,7 @@ HF_HEADERS = {
     "Content-Type": "application/json"
 }
 
-MODEL_NAME = "meta-llama/Meta-Llama-3-8B-Instruct"
+MODEL_NAME = "meta-llama/Llama-3.1-8B-Instruct"
 
 
 def query_hf(messages):
